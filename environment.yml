@@ -27,4 +27,3 @@ dependencies:
   - ipypublish
   - scipy
   - scikit-learn
-  - jupyterlab
