@@ -21,9 +21,5 @@ dependencies:
   - cis
   - bokeh
   - pyaerocom
-  - jupyter
-  - ipykernel
-  - notebook >=5.6.0
-  - ipypublish
   - scipy
   - scikit-learn
